@@ -1,0 +1,1 @@
+pip install autologging PyQt5 psutil configparser osrparse Pillow osr2mp4app pyinstaller
